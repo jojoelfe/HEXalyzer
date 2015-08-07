@@ -1,0 +1,3 @@
+LIBRARY calculations.pyd
+EXPORTS
+initcalculations
